@@ -1,0 +1,31 @@
+{
+  "portieri": ["Strakosha", "Cordaz"],
+  "difensori": [
+    "Calabria",
+    "Castan",
+    "De Sciglio",
+    "Fazio",
+    "Ghoulam",
+    "Mario Rui",
+    "Martella",
+    "N'Koulou"
+  ],
+  "centrocampisti": [
+    "Barella",
+    "Benali",
+    "De Paul",
+    "Felipe Anderson",
+    "Florenzi",
+    "Kessié",
+    "Ramirez",
+    "Viviani"
+  ],
+  "attaccanti": [
+    "Belotti",
+    "Brignola",
+    "Cornelius",
+    "Insigne",
+    "Pavoletti",
+    "Politano"
+  ]
+}
