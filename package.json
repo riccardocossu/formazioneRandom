@@ -2,6 +2,9 @@
   "name": "formazioneRandom",
   "version": "0.0.1",
   "private": true,
+  "bin": {
+    "formazioneRandom": "./bin/formazione.js"
+  },
   "scripts": {
     "start": "node ./bin/formazione.js"
   },
